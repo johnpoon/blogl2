@@ -29,21 +29,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: johnpoontf
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: johnpoontf
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: johnpoontf
+#youtube: myyoutube
+#spotify: myspotify
+#github: mygithub
+#stackoverflow: 7044681/mystackoverflow
+#quora: userquora
+#reddit: username
+#medium: medium
+#vimeo: myvimeo
+email: 13211315@life.hkbu.edu.hk
 
 authors:
     johndoe:
