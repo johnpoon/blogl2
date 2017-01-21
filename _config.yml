@@ -1,6 +1,6 @@
 # main text of home
 name: John Poon
-bio: Broadcast Journalism student
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://johnpoon.github.io/indigo
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,7 +29,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: johnpoontf
+facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -37,18 +37,18 @@ twitter: mytwitter
 # linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
-github: johnpoon
+github: mygithub
 stackoverflow: 7044681/mystackoverflow
 quora: userquora
 reddit: username
 medium: medium
 vimeo: myvimeo
-email: 13211315@life.hkbu.edu.hk
+email: myemail@gmail.com
 
 authors:
-    johnpoon
-        name: John Poon
-        bio: Broadcast Journalism Year 4
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
