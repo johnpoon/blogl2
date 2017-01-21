@@ -29,7 +29,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: johnpoontf
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -37,16 +37,16 @@ twitter: mytwitter
 # linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
-github: mygithub
+github: johnpoon
 stackoverflow: 7044681/mystackoverflow
 quora: userquora
 reddit: username
 medium: medium
 vimeo: myvimeo
-email: myemail@gmail.com
+email: 13211315@life.hkbu.edu.hk
 
 authors:
-    johndoe:
+    johnpoon
         name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
